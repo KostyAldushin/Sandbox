@@ -1,0 +1,5 @@
+npm install create-react-app -g // установка заготовки пакетов реакта
+create-react-app Test_React // создание нового проекта реакта
+cd Test_React // указываем путь в проект
+npm start // запуск реакта на вебпаке
+
